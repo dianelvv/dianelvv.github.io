@@ -1,0 +1,66 @@
+body {
+		background:url(1.jpg);
+		background-size:cover;
+	}
+	
+body * {
+		font-family:'Lato', sans-serif;
+		color:#FFF;
+	}
+	
+.klp-form {
+		margin: 10px 0;
+	}
+	
+.klp-form label {
+		display:block;
+	}
+
+.body {
+		border:5px solid #FFF;
+		width:40%;
+		margin:100px auto;
+		border-radius:10px;
+}
+	
+.frm-container {
+		font-family: 'Pacifico', cursive;
+		border:0px solid #FFF;
+		width:80%;
+		margin:4px auto; 
+	}
+
+marquee {
+	font-family: 'Pacifico', cursive;
+}
+
+.frm-content {
+		height:50%;
+		width:70%;
+		border-radius:2px;
+		padding-left:70px;
+}
+	
+.frm {
+		width:100%;
+		box-sizing:border-box;
+		border:1px solid #f9c;
+		padding:5px 10px;
+		border-radius:5px;	
+	}
+	
+.btn {
+		width:35%;
+		border:none;
+		background:#69F;
+		text-align:center;
+		padding:5px 10px;
+		border-radius:3px;
+		margin-bottom:10px;
+		color:#f9c;
+		font-weight:bold;
+	}
+
+.footer {
+		font-family: 'Pacifico', cursive;
+}
